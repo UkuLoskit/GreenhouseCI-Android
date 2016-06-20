@@ -21,7 +21,7 @@ android {
     //     resultsDir "hurr-durr-test-results-are-here"
     // }
 //	somethingRandom "something.random.here.as.well"
-    compileSdkVersion 25
+    compileSdkVersion 24
     buildToolsVersion "23.0.2"
 
     defaultConfig {
